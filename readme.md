@@ -1,4 +1,3 @@
-
 ---
 title: "Luftqualitätssensor"
 date: "2018-10-01T12:56:41.000Z"
