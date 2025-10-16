@@ -33,8 +33,6 @@ Der Luftqualitätssensor kann beispielsweise zur Realisierung eines Raumerfrisch
 Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst. Zusätzlich findet man über alle gängigen Suchmaschinen durch die Eingabe der genauen Komponentenbezeichnung entsprechende Projektbeispiele und Tutorials.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/) [- Luftqualitätssensor](http://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/)
